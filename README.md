@@ -43,4 +43,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parichehr-khanbani&" alt="parichehr-khanbani" /></p>
 
 ### 📈 My GitHub Contributions
-![Snake animation](https://github.com/Parichehr-Khanabni/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Parichehr-Khanabni/Parichehr-Khanbani/blob/output/github-contribution-grid-snake.svg)
