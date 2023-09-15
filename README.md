@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.canva.com/design/DAFudy6k634/j7-osXjsyd5ebsToUtfo4g/edit?utm_content=DAFudy6k634&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton/Parichehr-Khanbani/main/github.banner.png">
+  <img src="https://github.com/Parichehr-Khanbani/Parichehr-Khanbani/assets/134718965/253d2639-3dab-488c-91b6-47871124b2c4)/Parichehr-Khanbani/main/github.banner.png">
 </div>
 
 <h2 align="center">A dedicated data science enthusiast and a graduate student pursuing a Master's in Manufacturing Engineering at McMaster University.</h2>
