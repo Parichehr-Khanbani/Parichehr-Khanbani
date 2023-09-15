@@ -4,9 +4,7 @@
 
 <h2 align="center">A dedicated data science enthusiast and a graduate student pursuing a Master's in Manufacturing Engineering at McMaster University.</h2>
 
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47spf1mgza3xlmmx9z9bvbhhyh1d9ph1aaxyxjqge0&ep=v1_gifs_search&rid=giphy.gif&ct=g.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Parichehr-Khanbani.label=Profile%20views&color=0e75b6&style=flat" alt="Parichehr-Khanbani"/> </p>
+<img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47spf1mgza3xlmmx9z9bvbhhyh1d9ph1aaxyxjqge0&ep=v1_gifs_search&rid=giphy.gif&ct=g.gif">
 
 - 🎓 Manufacturing Engineering Grad Student @ **McMaster University**
 - 👨‍💻 Data Science Student @ **Filoger**
