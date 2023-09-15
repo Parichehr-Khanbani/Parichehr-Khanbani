@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Parichehr-Khanbani/Parichehr-Khanbani/assets/134718965/253d2639-3dab-488c-91b6-47871124b2c4)/Parichehr-Khanbani/main/github_banner.png">
+  <img src="https://github.com/Parichehr-Khanbani/Parichehr-Khanbani/assets/134718965/1e6f8f90-eb70-46ce-91f2-9d977bc98818)/Parichehr-Khanbani/main/banner-gif.gif">
 </div>
 
 <h2 align="center">A dedicated data science enthusiast and a graduate student pursuing a Master's in Manufacturing Engineering at McMaster University.</h2>
@@ -42,5 +42,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parichehr-khanbani&" alt="parichehr-khanbani" /></p>
 
-### 📈 My GitHub Contributions
-![Snake animation](https://github.com/Parichehr-Khanabni/Parichehr-Khanbani/blob/output/github-contribution-grid-snake.svg)
