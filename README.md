@@ -31,5 +31,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parichehr-khanbani" alt="parichehr-khanbani" /></a> </p>
 
-### My GitHub Contributions
-![Snake_animation](https://github.com/Parichehr-Khanbani/Parichehr-Khanbani/blob/output/github-contribution-grid-snake.svg)
+### 🐍 My GitHub Contributions
+![GitHub Snake Light](https://raw.githubusercontent.com/parichehr-khanbani/parichehr-khanbani/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/parichehr-khanbani/parichehr-khanbani/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
