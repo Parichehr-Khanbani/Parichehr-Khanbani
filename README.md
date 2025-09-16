@@ -10,10 +10,10 @@
 - 🌱 Next step: **Deep Learning Specialization**  
 - 💼 Bridging **Engineering, AI, and Data Science** to deliver innovative, data-driven solutions  
 
-
-<div align="center"> <img alt="Coding GIF" width="300" src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47spf1mgza3xlmmx9z9bvbhhyh1d9ph1aaxyxjqge0&ep=v1_gifs_search&rid=giphy.gif&ct=g.gif" style="border:1px solid #444; border-radius:5px;">
-<br> 🏆 Filoger Academy Certificate<br> <img src="Certificate-Parichehr Khanbani.jpg" width="300" style="border:1px solid #444; border-radius:5px;"> </div>
-
+<div align="center">
+  <img alt="Coding GIF"  height="300" src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47spf1mgza3xlmmx9z9bvbhhyh1d9ph1aaxyxjqge0&ep=v1_gifs_search&rid=giphy.gif&ct=g.gif" />
+  <img src="Certificate-Parichehr Khanbani.jpg"  height="272"  />
+</div>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -42,6 +42,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Parichehr-Khanbani&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=Parichehr-Khanbani&theme=radical&hide_border=false" alt="GitHub Streak" />
 </div>
+
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
