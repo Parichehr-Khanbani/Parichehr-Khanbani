@@ -1,18 +1,105 @@
 
 <!-- Banner -->
 <div align="center">
-  <img src="https://github.com/Parichehr-Khanbani/Parichehr-Khanbani/assets/134718965/451914d6-9f8e-43ed-aa83-6750f6e36344/Parichehr-Khanbani/main/gif.github.banner.gif" alt="Banner GIF" />
+  <img src="GitHub Profile Gif.gif" alt="Banner GIF" />
 </div>
 
-<h2 align="center">AI Enthusiast</h2>
+---
+<h2 align="center">About Me</h2>
 
-- 🎓 Graduated with a **Master’s in Manufacturing Engineering @ McMaster University**  
-- 📜 Earned a **Data Science Top-Student Certificate @ Filoger Academy**  
-- 🤖 Currently studying **Machine Learning @ Howsam Academy**  
-- 🌱 Next step: **Deep Learning Specialization**  
-- 💼 Bridging **Engineering, AI, and Data Science** to deliver innovative, data-driven solutions  
+
+- 🎓 Master's degree in **Manufacturing Engineering** from **McMaster University**, with a background in Industrial Engineering.
+- 📊 Interested in **Data Analytics, Business Intelligence, and Machine Learning**, with a focus on turning complex data into actionable insights.
+- 🐍 Working with **Python, SQL, Excel, and Power BI** for data exploration, analysis, visualization, and predictive modeling.
+- 🤖 Exploring **machine learning techniques**, including regression, classification, feature engineering, and model evaluation.
+- 📚 Completed **Data Science training at Filoger Academy** and **Advanced Machine Learning training at Howsam Academy**.
+- 🌱 Continuously developing my skills through hands-on projects and practical applications.
+
+---
+
+
+
+<!-- Languages and Tools -->
+<h3 align="left">🛠️ Languages & Tools</h3>
+
+<p align="left">
+
+  <!-- Core Analytics -->
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+         alt="Python" title="Python" width="40" height="40"/>
+  </a>
+
+  <a href="https://dbeaver.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"
+         alt="DBeaver" title="DBeaver (SQL)" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank">
+    <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"
+         alt="Microsoft Excel" title="Microsoft Excel" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.microsoft.com/power-platform/products/power-bi" target="_blank">
+    <img src="https://img.icons8.com/color/48/power-bi.png"
+         alt="Power BI" title="Power BI" width="40" height="40"/>
+  </a>
+
+  <!-- Python Libraries -->
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"
+         alt="NumPy" title="NumPy" width="40" height="40"/>
+  </a>
+
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
+         alt="Pandas" title="Pandas" width="40" height="40"/>
+  </a>
+
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"
+         alt="Scikit-learn" title="Scikit-learn" width="40" height="40"/>
+  </a>
+
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"
+         alt="Matplotlib" title="Matplotlib" width="40" height="40"/>
+  </a>
+
+  <a href="https://seaborn.pydata.org/" target="_blank">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
+         alt="Seaborn" title="Seaborn" width="40" height="40"/>
+  </a>
+
+  <!-- Machine Learning & Deep Learning -->
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"
+         alt="PyTorch" title="PyTorch" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"
+         alt="TensorFlow" title="TensorFlow" width="40" height="40"/>
+  </a>
+
+  <a href="https://opencv.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg"
+         alt="OpenCV" title="OpenCV" width="40" height="40"/>
+  </a>
+
+  <!-- Development Tools -->
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"
+         alt="Jupyter Notebook" title="Jupyter Notebook" width="40" height="40"/>
+  </a>
+
+</p>
+
+---
 
 <!-- GIF and Certificate side by side -->
+<h3 align="left">🎓 Learning & Certifications</h3>
+
 <table align="center">
   <tr>
     <td align="center" style="padding-right:10px;">
@@ -30,6 +117,7 @@
   </tr>
 </table>
 
+
 <!-- Connect -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,42 +126,6 @@
   </a>
   <a href="https://kaggle.com/parichehrkhanbani" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-  </a>
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=parichehr-khanbani&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<!-- Languages and Tools -->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-</p>
-
-<!-- GitHub Stats + Streak side by side -->
-<table align="center">
-  <tr>
-    <td align="center" style="padding-right:10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Parichehr-Khanbani&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-    </td>
-    <td align="center" style="padding-left:10px;">
-      <img src="https://streak-stats.demolab.com?user=Parichehr-Khanbani&theme=radical&hide_border=false" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-<!-- Trophies underneath, centered -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=parichehr-khanbani&theme=darkhub" alt="Trophies" />
   </a>
 </p>
 
